@@ -7,5 +7,5 @@ Key features of our dashboard include:
 - Geographic distribution of drug usage hotspots
 - Demographic breakdown of drug users
 - Comparison of different drug categories
-- Impact analysis on healthcare and social systems
+- Impact analysis on healthcare and social systems<br>
 We went a step further, developing a predictive model to forecast deaths over the next 4 years
